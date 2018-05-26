@@ -1,0 +1,69 @@
+{
+  "testCases" : [ {
+    "uid" : "e66b5f8ed39c2f96",
+    "name" : "TC-01.01 (2 is prime number)[TC-01.01 (2 is prime number),2,true]",
+    "title" : "01 (2 is prime number) [TC-01.01 (2 is prime number),2,true]",
+    "time" : {
+      "start" : 1527296252394,
+      "stop" : 1527296252410,
+      "duration" : 16
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "522f1ae9d84c2f65",
+    "name" : "TC-01.02 (3 is prime number)[TC-01.02 (3 is prime number),3,true]",
+    "title" : "02 (3 is prime number) [TC-01.02 (3 is prime number),3,true]",
+    "time" : {
+      "start" : 1527296252414,
+      "stop" : 1527296252415,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f9a64239bf74bdc7",
+    "name" : "TC-01.03 (4 is not prime number)[TC-01.03 (4 is not prime number),4,false]",
+    "title" : "03 (4 is not prime number) [TC-01.03 (4 is not prime number),4,false]",
+    "time" : {
+      "start" : 1527296252417,
+      "stop" : 1527296252418,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "77c8c616d032e4c5",
+    "name" : "TC-01.04 (5 is prime number)[TC-01.04 (5 is prime number),5,true]",
+    "title" : "04 (5 is prime number) [TC-01.04 (5 is prime number),5,true]",
+    "time" : {
+      "start" : 1527296252421,
+      "stop" : 1527296252422,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d623bf5f4c58ebbb",
+    "name" : "TC-01.05 (6 is not prime number)[TC-01.05 (6 is not prime number),6,false]",
+    "title" : "05 (6 is not prime number) [TC-01.05 (6 is not prime number),6,false]",
+    "time" : {
+      "start" : 1527296252431,
+      "stop" : 1527296252432,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9df5f72a554f09b2",
+    "name" : "TC-01.06 (7 is prime number)[TC-01.06 (7 is prime number),7,true]",
+    "title" : "06 (7 is prime number) [TC-01.06 (7 is prime number),7,true]",
+    "time" : {
+      "start" : 1527296252434,
+      "stop" : 1527296252437,
+      "duration" : 3
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

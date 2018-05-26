@@ -1,0 +1,59 @@
+{
+  "uid" : "77c8c616d032e4c5",
+  "name" : "TC-01.04 (5 is prime number)[TC-01.04 (5 is prime number),5,true]",
+  "title" : "04 (5 is prime number) [TC-01.04 (5 is prime number),5,true]",
+  "time" : {
+    "start" : 1527296252421,
+    "stop" : 1527296252422,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bdd7bd5e7a7cb8f6",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test"
+  }, {
+    "name" : "thread",
+    "value" : "9296@victorias-MacBook-Pro-3.local.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "victorias-MacBook-Pro-3.local"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testGroup",
+    "value" : "Surefire test"
+  }, {
+    "name" : "testClass",
+    "value" : "core.PrimeNumberCheckerTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Surefire suite : Surefire test"
+  } ],
+  "parameters" : [ ]
+}
